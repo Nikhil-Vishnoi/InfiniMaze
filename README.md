@@ -1,0 +1,2 @@
+# InfiniMaze
+Maze Solving Game. 
